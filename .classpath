@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/flying-saucer-pdf-9.1.20.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/flying-saucer-pdf-itext5-9.1.20.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/freemarker-2.3.30.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/htmltopdf-1.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/iText-2.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/itext-asian-5.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/itextpdf-5.5.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/jtidy-r938.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/itext依赖文件/xmlworker-5.5.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/fontbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/pdf2dom-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/pdf2dom-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/pdfbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/pdfbox-app-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/pdfbox-tools-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/preflight-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/preflight-app-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/毕业设计/pdfBox/pdfBox依赖文件/xmpbox-2.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

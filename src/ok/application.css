@@ -1,0 +1,16 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.num-button {
+    -fx-padding: 8px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-border-radius: 0.0;
+    -fx-background-color: 	#66CDAA;
+}
+#hBoxMain{
+    -fx-background-color: 	#66CDAA;
+}
+.num-button:hover{
+	    -fx-background-color: #458B74;
+}
